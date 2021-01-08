@@ -10,11 +10,10 @@
 		"max-statements": 0,
 		"new-cap": [2, {
 			"capIsNewExceptions": [
+				"ToUint32"
 			],
 		}],
-		"no-magic-numbers": [2, {
-			"ignore": [0, 1, 2]
-		}],
+		"no-magic-numbers": 0,
 		"no-negated-condition": 0,
 		"operator-linebreak": [2, "before"],
 	},
@@ -30,7 +29,6 @@
 			"files": "test/**/*",
 			"rules": {
 				"max-lines-per-function": 0,
-				"no-magic-numbers": 0,
 			},
 		}
 	]
