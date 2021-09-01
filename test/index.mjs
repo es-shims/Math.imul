@@ -16,9 +16,9 @@ test('named exports', async (t) => {
 	);
 
 	const { shim, getPolyfill, implementation } = imulModule;
-	t.equal(await import('math.imul/shim'), shim, 'shim named export matches deep export');
-	t.equal(await import('math.imul/implementation'), implementation, 'implementation named export matches deep export');
-	t.equal(await import('math.imul/polyfill'), getPolyfill, 'getPolyfill named export matches deep export');
+	t.equal((await import('math.imul/shim')).default, shim, 'shim named export matches deep export');
+	t.equal((await import('math.imul/implementation')).default, implementation, 'implementation named export matches deep export');
+	t.equal((await import('math.imul/polyfill')).default, getPolyfill, 'getPolyfill named export matches deep export');
 
 	t.end();
 });
