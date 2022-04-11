@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.2](https://github.com/es-shims/Math.imul/compare/v1.0.1...v1.0.2) - 2022-04-10
+
+### Commits
+
+- [actions] reuse common workflows [`90bbea1`](https://github.com/es-shims/Math.imul/commit/90bbea1f1d03a4041e3461858f966e8fa5b96c5f)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `@es-shims/api`, `reflect.ownkeys`, `safe-publish-latest`, `tape` [`b4f22c3`](https://github.com/es-shims/Math.imul/commit/b4f22c3ed3cf3a93ea38e0344fa56bd85fdf3c93)
+- [Fix] avoid identifier `native`; it breaks node 0.4 [`cbc2393`](https://github.com/es-shims/Math.imul/commit/cbc2393f318c43bb850f3a3fd9170214148b1e1d)
+- [actions] update codecov uploader [`a615a13`](https://github.com/es-shims/Math.imul/commit/a615a13f5430d258427ed745025ee6d0365b2f25)
+- [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `aud`, `auto-changelog`, `tape` [`5c90aa4`](https://github.com/es-shims/Math.imul/commit/5c90aa4a8836d81e7c69e10aead09c40010bf634)
+- [Deps] update `es-abstract` [`5095579`](https://github.com/es-shims/Math.imul/commit/509557913c7d7e77bf182d33dafab51ffd7b5261)
+- [Deps] update `es-abstract` [`1c17e98`](https://github.com/es-shims/Math.imul/commit/1c17e98b75134840680a60c6686ba33228c0d64e)
+
 ## [v1.0.1](https://github.com/es-shims/Math.imul/compare/v1.0.0...v1.0.1) - 2021-10-02
 
 ### Commits
