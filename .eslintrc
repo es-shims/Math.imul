@@ -6,7 +6,7 @@
 	"rules": {
 		"new-cap": [2, {
 			"capIsNewExceptions": [
-				"ToUint32"
+				"ToUint32",
 			],
 		}],
 		"no-magic-numbers": 0,
