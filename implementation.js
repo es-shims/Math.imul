@@ -1,6 +1,6 @@
 'use strict';
 
-var ToUint32 = require('es-abstract/2021/ToUint32');
+var ToUint32 = require('es-abstract/2022/ToUint32');
 
 module.exports = function imul(x, y) {
 	// taken from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/imul
