@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.3](https://github.com/es-shims/Math.imul/compare/v1.0.2...v1.0.3) - 2022-11-04
+
+### Commits
+
+- [meta] fix package.json indentation [`3571858`](https://github.com/es-shims/Math.imul/commit/357185876aeee19aea44110ea74e34bfc891be3e)
+- [meta] use `npmignore` to autogenerate an npmignore file [`c096366`](https://github.com/es-shims/Math.imul/commit/c0963664a7598c20ee6aa25902aa2f021169f1a7)
+- [actions] update rebase action to use reusable workflow [`eba69f5`](https://github.com/es-shims/Math.imul/commit/eba69f55d0391d72a1f8bdbd28e3fd418b81fad6)
+- [Deps] update `define-properties`, `es-abstract` [`a0bf52b`](https://github.com/es-shims/Math.imul/commit/a0bf52ba69a34e8d00dffa625683aff31d95fa9f)
+- [Dev Deps] update `aud`, `functions-have-names`, `tape` [`78b97a7`](https://github.com/es-shims/Math.imul/commit/78b97a756cee05823af6412247a3cca7a63ba975)
+
 ## [v1.0.2](https://github.com/es-shims/Math.imul/compare/v1.0.1...v1.0.2) - 2022-04-10
 
 ### Commits
