@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.4](https://github.com/es-shims/Math.imul/compare/v1.0.3...v1.0.4) - 2023-08-27
+
+### Commits
+
+- [Dev Deps] update `@es-shims/api`, `@ljharb/eslint-config`, `aud`, `reflect.ownkeys`, `tape` [`a977fa1`](https://github.com/es-shims/Math.imul/commit/a977fa18296bdbbf10bfe4fd3dc3e020ebc028da)
+- [Deps] update `define-properties`, `es-abstract` [`805c077`](https://github.com/es-shims/Math.imul/commit/805c07733382b8a8af3f50036429ed6892f42d1a)
+
 ## [v1.0.3](https://github.com/es-shims/Math.imul/compare/v1.0.2...v1.0.3) - 2022-11-04
 
 ### Commits
